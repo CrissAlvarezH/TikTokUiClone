@@ -169,7 +169,7 @@ class CloneTiktok extends StatelessWidget {
                 'Para ti',
                 style: TextStyle(
                   fontSize: 18.0,
-                  color: Colors.white
+                  color: Colors.white54
                 ),
               )
             ],
